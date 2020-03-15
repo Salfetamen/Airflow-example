@@ -1,0 +1,6 @@
+__pycache__/
+env/
+logs/
+**/*.pid
+airflow.db
+airflow_home/unittests.cfg
